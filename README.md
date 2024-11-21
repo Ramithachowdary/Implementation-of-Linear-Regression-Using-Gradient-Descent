@@ -51,6 +51,7 @@ RegisterNumber: 24900704
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
+```
           0               1                2           3          4
 0  R&D Spend  Administration  Marketing Spend       State     Profit
 1   165349.2        136897.8         471784.1    New York  192261.83
@@ -60,6 +61,6 @@ RegisterNumber: 24900704
 Predicted value: [[257544.78678916]]
 ​
 
-
+```
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
